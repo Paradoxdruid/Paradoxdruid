@@ -13,9 +13,9 @@ Biochemistry professor, academic leader, data scientist, and nerd.
 
 <br />
 
-### Github Stats
+<!-- ### Github Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradoxdruid&hide=makefile&layout=compact&theme=buefy)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradoxdruid&hide=makefile&layout=compact&theme=buefy) -->
 
 
 
